@@ -1,0 +1,5 @@
+model\Student.class
+validation\Validation.class
+application\StudentManagementApp.class
+view\StudentView.class
+controller\StudentController.class
